@@ -106,8 +106,8 @@
 
 <!-- 统计卡片 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nekobenzene&show_icons=true&hide_border=true&bg_color=FFF5F5&title_color=F472B6&text_color=6C5B7B&icon_color=F5576C&ring_color=F7A072&border_radius=16" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekobenzene&layout=compact&hide_border=true&bg_color=FFF5F5&title_color=F472B6&text_color=6C5B7B&border_radius=16" alt="Top Languages" />
+  <img src="https://github-readme-stats-gules-phi-53.vercel.app/api?username=Nekobenzene&show_icons=true&hide_border=true&bg_color=FFF5F5&title_color=F472B6&text_color=6C5B7B&icon_color=F5576C&ring_color=F7A072&border_radius=16" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-gules-phi-53.vercel.app/api/top-langs/?username=Nekobenzene&layout=compact&hide_border=true&bg_color=FFF5F5&title_color=F472B6&text_color=6C5B7B&border_radius=16" alt="Top Languages" />
 </p>
 
 <!-- 连续提交 -->
