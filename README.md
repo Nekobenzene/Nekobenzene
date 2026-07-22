@@ -90,7 +90,7 @@
 <p align="center">
   <span style="background: #ffd93d; padding: 0.2em 1em; border-radius: 20px; color: #333;">☕ coffee intake: 100.4999%</span>
   &nbsp;&nbsp;
-  <span style="background: #6bcb77; padding: 0.2em 1em; border-radius: 20px; color: #fff;">🐛 bugs squashed: ∞</span>
+  <span style="background: #6bcb77; padding: 0.2em 1em; border-radius: 20px; color: #fff;">🐛 bugs to squash: 1.80e308</span>
 </p>
 
 ---
@@ -106,16 +106,19 @@
 
 <!-- 统计卡片 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nekobenzene&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekobenzene&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nekobenzene&show_icons=true&hide_border=true&bg_color=FFF5F5&title_color=F472B6&text_color=6C5B7B&icon_color=F5576C&ring_color=F7A072&border_radius=16" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekobenzene&layout=compact&hide_border=true&bg_color=FFF5F5&title_color=F472B6&text_color=6C5B7B&border_radius=16" alt="Top Languages" />
 </p>
 
 <!-- 连续提交 -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nekobenzene&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nekobenzene&hide_border=true&background=FFF5F5&ring=F472B6&fire=F5576C&currStreakLabel=F472B6&sideLabels=F7A072&dates=6C5B7B&border_radius=16" alt="Streak Stats" />
 </p>
 
-<!-- 贡献日历（可选） -->
+<!-- 贡献日历 -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nekobenzene&theme=github-light&bg_color=FFF5F5&color=6C5B7B&line=F5576C&point=F472B6&area=true&hide_border=true&radius=16" alt="Activity Graph" />
+</p>
 <p align="center">
   <img src="https://ghchart.rshah.org/Nekobenzene" alt="Contribution Graph" />
 </p>
