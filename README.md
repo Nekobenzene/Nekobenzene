@@ -106,13 +106,13 @@
 
 <!-- 统计卡片 -->
 <p align="center">
-  <img src="https://github-readme-stats-gules-phi-53.vercel.app/api?username=Nekobenzene&show_icons=true&hide_border=true&bg_color=FFF5F5&title_color=F472B6&text_color=6C5B7B&icon_color=F5576C&ring_color=F7A072&border_radius=16" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-gules-phi-53.vercel.app/api/top-langs/?username=Nekobenzene&layout=compact&hide_border=true&bg_color=FFF5F5&title_color=F472B6&text_color=6C5B7B&border_radius=16" alt="Top Languages" />
+  <img src="https://github-readme-stats-gules-phi-53.vercel.app/api?username=Nekobenzene&show_icons=true&hide_border=true&bg_color=FEFFFC&title_color=F472B6&text_color=6C5B7B&icon_color=F5576C&ring_color=F7A072&border_radius=16" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-gules-phi-53.vercel.app/api/top-langs/?username=Nekobenzene&layout=compact&hide_border=true&bg_color=FEFFFC&title_color=F472B6&text_color=6C5B7B&border_radius=16" alt="Top Languages" />
 </p>
 
 <!-- 连续提交 -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nekobenzene&hide_border=true&background=FFF5F5&ring=F472B6&fire=F5576C&currStreakLabel=F472B6&sideLabels=F7A072&dates=6C5B7B&border_radius=16" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nekobenzene&hide_border=true&background=FFEEFF&ring=F472B6&fire=F5576C&currStreakLabel=F472B6&sideLabels=F7A072&dates=6C5B7B&border_radius=16" alt="Streak Stats" />
 </p>
 
 <!-- 贡献日历（可选） -->
