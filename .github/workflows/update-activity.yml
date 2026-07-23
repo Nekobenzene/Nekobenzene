@@ -12,6 +12,6 @@ jobs:
       - uses: actions/checkout@v3
       - uses: Readme-Workflows/recent-activity@v2
         with:
-          GH_USERNAME: your-username
+          GH_USERNAME: Nekobenzene
           COMMIT_MSG: '🔄 update recent activity'
           MAX_LINES: 5
