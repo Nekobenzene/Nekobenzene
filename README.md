@@ -139,7 +139,9 @@
      ============================================================ -->
 <h1 align="center">quote of the day</h1>
 
-> *"The only way to do great work is to love what you do."* – Steve Jobs
+> *"The only way to do great work is to love what you do." – Steve Jobs*
+
+<!-- ============================================================ -->
 
 <!-- ============================================================
      底部 · 动态波浪 + 猫爪
