@@ -1,5 +1,8 @@
 <div align="center">
 
+
+> *"Let today be the day u stop meowing about the problem and start pawing at the solution."*
+
 <!-- ============================================================
      头部 · 动态彩虹波浪
      ============================================================ -->
