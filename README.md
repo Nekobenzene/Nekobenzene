@@ -3,6 +3,9 @@
 
 > *"Let today be the day u stop meowing about the problem and start pawing at the solution."*
 
+
+> *"U r the main character—so act like it, even during nap time."*
+
 <!-- ============================================================
      头部 · 动态彩虹波浪
      ============================================================ -->
