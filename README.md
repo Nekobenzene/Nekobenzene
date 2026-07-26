@@ -6,6 +6,9 @@
 
 > *"U r the main character—so act like it, even during nap time."*
 
+
+> *"Every ending is just a new beginning—with fresh cardboard."*
+
 <!-- ============================================================
      头部 · 动态彩虹波浪
      ============================================================ -->
