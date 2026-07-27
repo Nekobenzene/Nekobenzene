@@ -9,6 +9,9 @@
 
 > *"Every ending is just a new beginning—with fresh cardboard."*
 
+
+> *"Ur potential is infinite—like a laser dot that never disappearz."*
+
 <!-- ============================================================
      头部 · 动态彩虹波浪
      ============================================================ -->
