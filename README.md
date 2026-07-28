@@ -12,6 +12,9 @@
 
 > *"Ur potential is infinite—like a laser dot that never disappearz."*
 
+
+> *"Be kind to urself—u deserve the same purrs u give others."*
+
 <!-- ============================================================
      头部 · 动态彩虹波浪
      ============================================================ -->
