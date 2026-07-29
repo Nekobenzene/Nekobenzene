@@ -15,6 +15,9 @@
 
 > *"Be kind to urself—u deserve the same purrs u give others."*
 
+
+> *"The world is full of nice personz—if u can’t find one, be one (and add a tail)."*
+
 <!-- ============================================================
      头部 · 动态彩虹波浪
      ============================================================ -->
