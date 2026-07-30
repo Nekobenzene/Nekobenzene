@@ -18,6 +18,9 @@
 
 > *"The world is full of nice personz—if u can’t find one, be one (and add a tail)."*
 
+
+> *"U r not behind; u r just on a different zoomie path."*
+
 <!-- ============================================================
      头部 · 动态彩虹波浪
      ============================================================ -->
