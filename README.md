@@ -21,6 +21,9 @@
 
 > *"U r not behind; u r just on a different zoomie path."*
 
+
+> *"Breathe in courage, breathe out fear, and exhale a tiny meow."*
+
 <!-- ============================================================
      头部 · 动态彩虹波浪
      ============================================================ -->
