@@ -5,6 +5,10 @@ on:
     - cron: '0 0 * * *'   # 每天 UTC 0 点更新
   workflow_dispatch:      # 允许手动触发
 
+concurrency:
+  group: readme-update
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
