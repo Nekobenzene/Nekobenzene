@@ -1,41 +1,4 @@
 <div align="center">
-
-
-> *"Let today be the day u stop meowing about the problem and start pawing at the solution."*
-
-
-> *"U r the main character—so act like it, even during nap time."*
-
-
-> *"Every ending is just a new beginning—with fresh cardboard."*
-
-
-> *"Ur potential is infinite—like a laser dot that never disappearz."*
-
-
-> *"Be kind to urself—u deserve the same purrs u give others."*
-
-
-> *"The world is full of nice personz—if u can’t find one, be one (and add a tail)."*
-
-
-> *"U r not behind; u r just on a different zoomie path."*
-
-
-> *"Breathe in courage, breathe out fear, and exhale a tiny meow."*
-
-
-> *"不要因为走得太远，而忘记为什么出发喵。"*
-
-
-> *"愿你眼里长着太阳，笑里全是坦荡。"*
-
-
-> *"猫生没有白走的路，每一步都算数。"*
-
-
-> *"万物皆有裂痕，那是猫钻进来的通道喵。"*
-
 <!-- ============================================================
      头部 · 动态彩虹波浪
      ============================================================ -->
