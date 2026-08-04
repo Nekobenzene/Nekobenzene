@@ -2,33 +2,48 @@ name: Daily Quote Update
 
 on:
   schedule:
-    # 每天 UTC 00:00 运行 (北京时间 08:00)
-    - cron: '0 0 * * *'
-  # 允许手动触发
+    # 每天 UTC 00:10 运行，避开 activity workflow
+    - cron: "10 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-update
+  cancel-in-progress: false
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Run update script
         run: python scripts/update_readme.py
 
       - name: Commit and push changes
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+
           git add README.md
-          git diff --staged --quiet || git commit -m "🔄 Daily quote update"
-          git push
+
+          if git diff --staged --quiet; then
+            echo "README.md has no changes"
+            exit 0
+          fi
+
+          git commit -m "Daily quote update"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
