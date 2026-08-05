@@ -1,19 +1,10 @@
 <div align="center">
-<!-- ============================================================
-     头部 · 动态彩虹波浪
-     ============================================================ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6&height=220&section=header&text=Neko-Benzene&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=🐾%20purr%20·%20play%20·%20munch%20🐾&descSize=18&descAlignY=58" width="100%" />
 
-<!-- ============================================================
-     标语 · 趣味小标签
-     ============================================================ -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F472B6&center=true&vCenter=true&width=600&lines=🌈+full+stack+daydreamer+%F0%9F%8E%A8;%F0%9F%92%BB+keyboard+cat+%C2%B7+coffee+fuelled;%F0%9F%8E%AF+bug+catcher+%7C+tea+connoisseur;%F0%9F%8C%9F+making+the+web+a+cuter+place" alt="Typing SVG" />
 
 ---
 
-<!-- ============================================================
-     about Neko · 猫猫简介
-     ============================================================ -->
 <h1 align="center">🐱 about Neko</h1>
 
 <p align="center">
@@ -40,9 +31,6 @@
 
 ---
 
-<!-- ============================================================
-     bread and butter · 技术栈
-     ============================================================ -->
 <h1 align="center">🔧 bread and butter</h1>
 
 <p align="center"><em>skills, tools, and snacks</em></p>
@@ -60,9 +48,6 @@
 
 ---
 
-<!-- ============================================================
-     the 411 · 实时统计
-     ============================================================ -->
 <h1 align="center">📊 the 411</h1>
 
 <p align="center">
@@ -84,9 +69,6 @@
 
 ---
 
-<!-- ============================================================
-     greatest hits · 项目占位
-     ============================================================ -->
 <h1 align="center">💡 greatest hits</h1>
 
 <p align="center">
@@ -104,9 +86,6 @@
 
 ---
 
-<!-- ============================================================
-     hit Neko up · 联系方式
-     ============================================================ -->
 <h1 align="center">📬 hit Neko up</h1>
 
 <p align="center">
@@ -133,10 +112,6 @@
 
 ---
 
-<!-- ============================================================
-     quote of the day · 鸡汤占位
-     ============================================================ -->
-
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
@@ -144,9 +119,6 @@
 
 <!-- quote-of-day:end -->
 
-<!-- ============================================================
-     底部 · 动态波浪 + 猫爪
-     ============================================================ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,5,4,3,2,1,0&height=160&section=footer&text=🐾%20keep%20it%20purr-sonal%20🐾&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=72" width="100%" />
 
 </div>
