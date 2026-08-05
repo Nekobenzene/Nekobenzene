@@ -11,9 +11,8 @@ ROOT_DIR = Path(__file__).resolve().parent.parent
 README_PATH = ROOT_DIR / "README.md"
 QUOTES_PATH = ROOT_DIR / "config" / "quotes.json"
 
-OPEN_DIV = '<div align="center">'
-QUOTE_HEADING = '<h1 align="center">quote of the day</h1>'
-SECTION_DIVIDER = '<!-- ============================================================ -->'
+QUOTE_START = "<!-- quote-of-day:start -->"
+QUOTE_END = "<!-- quote-of-day:end -->"
 FALLBACK_TEXT = "Keep coding, stay purr-sonal!"
 
 
@@ -32,37 +31,25 @@ def get_todays_quote():
 
 
 def update_readme(quote):
-    lines = README_PATH.read_text(encoding="utf-8").splitlines(keepends=True)
+    content = README_PATH.read_text(encoding="utf-8")
 
-    # Clean up any accidental quote block that got inserted near the top.
-    open_idx = next((i for i, line in enumerate(lines) if line.strip() == OPEN_DIV), None)
-    if open_idx is not None:
-        divider_idx = next(
-            (i for i in range(open_idx + 1, len(lines)) if lines[i].strip() == SECTION_DIVIDER),
-            None,
-        )
-        if divider_idx is not None:
-            lines = lines[: open_idx + 1] + ["\n"] + lines[divider_idx:]
+    start_idx = content.find(QUOTE_START)
+    end_idx = content.find(QUOTE_END)
 
-    # Replace the actual quote-of-the-day block.
-    heading_idx = next((i for i, line in enumerate(lines) if line.strip() == QUOTE_HEADING), None)
-    if heading_idx is None:
-        raise RuntimeError("Could not find quote of the day heading in README.md")
+    if start_idx == -1 or end_idx == -1 or start_idx > end_idx:
+        raise RuntimeError("Could not find quote-of-day markers in README.md")
 
-    divider_idx = next(
-        (i for i in range(heading_idx + 1, len(lines)) if lines[i].strip() == SECTION_DIVIDER),
-        None,
-    )
-    if divider_idx is None:
-        raise RuntimeError("Could not find quote of the day divider in README.md")
+    end_idx += len(QUOTE_END)
 
-    new_lines = (
-        lines[: heading_idx + 1]
-        + ["\n", f'> *"{quote}"*\n', "\n"]
-        + lines[divider_idx:]
+    new_block = (
+        f"{QUOTE_START}\n"
+        '<h1 align="center">quote of the day</h1>\n\n'
+        f'> *"{quote}"*\n\n'
+        f"{QUOTE_END}"
     )
 
-    README_PATH.write_text("".join(new_lines), encoding="utf-8")
+    new_content = content[:start_idx] + new_block + content[end_idx:]
+    README_PATH.write_text(new_content, encoding="utf-8")
     print(f"Updated README with quote: {quote}")
 
 
