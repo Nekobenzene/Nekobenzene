@@ -140,7 +140,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"The only way to do great work is to love what you do." – Steve Jobs*
+> *"愿你被这个世界温柔以待，躲过所有的暗箭和冷水。"*
 
 <!-- quote-of-day:end -->
 
