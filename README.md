@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"愿你被这个世界温柔以待，躲过所有的暗箭和冷水。"*
+> *"凡不能毁灭我的，必使我更强大。"*
 
 <!-- quote-of-day:end -->
 
