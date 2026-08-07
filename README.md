@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"凡不能毁灭我的，必使我更强大。"*
+> *"生活原本沉闷，但跑起来就有满屋子追我的小飞虫。"*
 
 <!-- quote-of-day:end -->
 
