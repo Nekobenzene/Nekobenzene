@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"生活原本沉闷，但跑起来就有满屋子追我的小飞虫。"*
+> *"愿你走出半生，归来时毛色依旧油亮喵。"*
 
 <!-- quote-of-day:end -->
 
