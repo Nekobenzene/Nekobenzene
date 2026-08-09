@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"愿你走出半生，归来时毛色依旧油亮喵。"*
+> *"知世故而不世故，是最善良的成熟。"*
 
 <!-- quote-of-day:end -->
 
