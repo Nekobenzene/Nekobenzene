@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"知世故而不世故，是最善良的成熟。"*
+> *"人生苦短，我用睡眠来延长。"*
 
 <!-- quote-of-day:end -->
 
