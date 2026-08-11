@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"人生苦短，我用睡眠来延长。"*
+> *"你的负担将变成礼物，你受的苦将照亮你的路——而你的爪爪将抓住所有掉落的东西。"*
 
 <!-- quote-of-day:end -->
 
