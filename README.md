@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"你的负担将变成礼物，你受的苦将照亮你的路——而你的爪爪将抓住所有掉落的东西。"*
+> *"真正的平静，不是避开车马喧嚣，而是在心中修篱种菊。"*
 
 <!-- quote-of-day:end -->
 
