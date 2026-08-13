@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"真正的平静，不是避开车马喧嚣，而是在心中修篱种菊。"*
+> *"爱你所爱，行你所行，听从你心，无问西东。"*
 
 <!-- quote-of-day:end -->
 
