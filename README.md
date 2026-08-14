@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"爱你所爱，行你所行，听从你心，无问西东。"*
+> *"学而时习之，不亦说喵？ ——孔子"*
 
 <!-- quote-of-day:end -->
 
