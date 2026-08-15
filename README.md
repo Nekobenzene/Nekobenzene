@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"学而时习之，不亦说喵？ ——孔子"*
+> *"三喵行，必有我师喵。 ——孔子"*
 
 <!-- quote-of-day:end -->
 
