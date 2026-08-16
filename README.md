@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"三喵行，必有我师喵。 ——孔子"*
+> *"穷则独善其身，达则兼济天下。 ——孟子"*
 
 <!-- quote-of-day:end -->
 
