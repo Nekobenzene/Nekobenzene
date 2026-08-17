@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"穷则独善其身，达则兼济天下。 ——孟子"*
+> *"道可道，非常道。 ——老子"*
 
 <!-- quote-of-day:end -->
 
