@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"道可道，非常道。 ——老子"*
+> *"喵生天地间，忽如远行客。 ——庄子"*
 
 <!-- quote-of-day:end -->
 
