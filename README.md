@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"喵生天地间，忽如远行客。 ——庄子"*
+> *"长太息以掩涕喵，哀民生之多艰。 ——屈原"*
 
 <!-- quote-of-day:end -->
 
