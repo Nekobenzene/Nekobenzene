@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"长太息以掩涕喵，哀民生之多艰。 ——屈原"*
+> *"长风破浪会有时，直挂云帆济沧海。 ——李白"*
 
 <!-- quote-of-day:end -->
 
