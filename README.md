@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"长风破浪会有时，直挂云帆济沧海。 ——李白"*
+> *"会当凌绝顶，一览众山小。 ——杜甫"*
 
 <!-- quote-of-day:end -->
 
