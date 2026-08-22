@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"会当凌绝顶，一览众山小。 ——杜甫"*
+> *"竹杖芒鞋轻胜马，一蓑烟雨任平生。 ——苏轼"*
 
 <!-- quote-of-day:end -->
 
