@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"竹杖芒鞋轻胜马，一蓑烟雨任平生。 ——苏轼"*
+> *"生当作喵杰，死亦为鬼雄。 ——李清照"*
 
 <!-- quote-of-day:end -->
 
