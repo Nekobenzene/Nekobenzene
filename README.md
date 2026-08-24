@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"生当作喵杰，死亦为鬼雄。 ——李清照"*
+> *"喵生自古谁无死，留取丹心照汗青。 ——文天祥"*
 
 <!-- quote-of-day:end -->
 
