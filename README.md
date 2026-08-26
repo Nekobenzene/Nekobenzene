@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"非淡泊无以明志，非宁静无以致远。 ——诸葛亮"*
+> *"先天下之忧而忧，后天下之乐而乐。 ——范仲淹"*
 
 <!-- quote-of-day:end -->
 
