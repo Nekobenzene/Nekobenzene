@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"先天下之忧而忧，后天下之乐而乐。 ——范仲淹"*
+> *"破山中贼易，破心中贼难。 ——王阳明"*
 
 <!-- quote-of-day:end -->
 
