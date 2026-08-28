@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"破山中贼易，破心中贼难。 ——王阳明"*
+> *"横眉冷对千喵指，俯首甘为孺子牛。 ——鲁迅"*
 
 <!-- quote-of-day:end -->
 
