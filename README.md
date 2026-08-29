@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"横眉冷对千喵指，俯首甘为孺子牛。 ——鲁迅"*
+> *"其实地上本没有路，走的喵多了，也便成了路。 ——鲁迅"*
 
 <!-- quote-of-day:end -->
 
