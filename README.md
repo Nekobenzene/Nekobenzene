@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"其实地上本没有路，走的喵多了，也便成了路。 ——鲁迅"*
+> *"容忍比自由更重要。 ——胡适"*
 
 <!-- quote-of-day:end -->
 
