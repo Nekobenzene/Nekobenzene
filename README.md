@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"天下就没有偶然，那不过是化了妆的必然。 ——钱钟书"*
+> *"Jeder ist seines Glückes Schmied. Jede Katze ist ihrer Sonnenbahn Lenkerin."*
 
 <!-- quote-of-day:end -->
 
