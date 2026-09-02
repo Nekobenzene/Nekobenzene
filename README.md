@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Jeder ist seines Glückes Schmied. Jede Katze ist ihrer Sonnenbahn Lenkerin."*
+> *"Mit Geduld und Spucke fängt man den Vogel. Mit Schnurren und Schleichen erobert man die Couch."*
 
 <!-- quote-of-day:end -->
 
