@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Mit Geduld und Spucke fängt man den Vogel. Mit Schnurren und Schleichen erobert man die Couch."*
+> *"Das Leben ist kein Ponyhof. Aber es ist ein warmer Heizkörper, und das zählt, miau."*
 
 <!-- quote-of-day:end -->
 
