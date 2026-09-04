@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Das Leben ist kein Ponyhof. Aber es ist ein warmer Heizkörper, und das zählt, miau."*
+> *"الصبر مفتاح الفرج، والمياو مفتاح العشاء، نياو."*
 
 <!-- quote-of-day:end -->
 
