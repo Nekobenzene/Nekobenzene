@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"كل شيء بقدر، وكل قدر له غطاء، وكل غطاء له قط يجلس عليه، نياو."*
+> *"Al que madruga, Dios le ayuda. Al que miaulla, le abren la lata, miau."*
 
 <!-- quote-of-day:end -->
 
