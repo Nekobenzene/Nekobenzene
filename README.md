@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Al que madruga, Dios le ayuda. Al que miaulla, le abren la lata, miau."*
+> *"No hay mal que por bien no venga. Y no hay siesta que no se merezca."*
 
 <!-- quote-of-day:end -->
 
