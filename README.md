@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"No hay mal que por bien no venga. Y no hay siesta que no se merezca."*
+> *"Ojos que no ven, corazón que no siente. Pero nariz que huele, encuentra el atún."*
 
 <!-- quote-of-day:end -->
 
