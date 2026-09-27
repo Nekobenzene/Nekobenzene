@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Ojos que no ven, corazón que no siente. Pero nariz que huele, encuentra el atún."*
+> *"Más vale pájaro en mano que ciento volando. Más vale un poco de pescado que todo el armario cerrado."*
 
 <!-- quote-of-day:end -->
 
