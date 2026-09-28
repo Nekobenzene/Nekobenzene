@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Más vale pájaro en mano que ciento volando. Más vale un poco de pescado que todo el armario cerrado."*
+> *"Camarón que se duerme, se lo lleva la corriente. Gato que se duerme, se lleva el mejor cojín."*
 
 <!-- quote-of-day:end -->
 
