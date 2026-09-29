@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Camarón que se duerme, se lo lleva la corriente. Gato que se duerme, se lleva el mejor cojín."*
+> *"Dime con quién andas y te diré quién eres. Dime a qué hora comes y te diré cuándo llegó, mrr."*
 
 <!-- quote-of-day:end -->
 
