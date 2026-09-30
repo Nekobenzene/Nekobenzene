@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Dime con quién andas y te diré quién eres. Dime a qué hora comes y te diré cuándo llegó, mrr."*
+> *"El hábito no hace al monje, pero el ronroneo hace al gato feliz."*
 
 <!-- quote-of-day:end -->
 
