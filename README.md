@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"El hábito no hace al monje, pero el ronroneo hace al gato feliz."*
+> *"The best time to start was yesterday; the next best time is meow."*
 
 <!-- quote-of-day:end -->
 
