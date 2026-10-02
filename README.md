@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"The best time to start was yesterday; the next best time is meow."*
+> *"U r not late; u r just on cat time—fashionably delayed."*
 
 <!-- quote-of-day:end -->
 
