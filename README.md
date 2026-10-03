@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"U r not late; u r just on cat time—fashionably delayed."*
+> *"Let ur curiosity lead, but let ur caution keep the tail safe."*
 
 <!-- quote-of-day:end -->
 
