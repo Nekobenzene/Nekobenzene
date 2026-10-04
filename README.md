@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Let ur curiosity lead, but let ur caution keep the tail safe."*
+> *"Success is not final, failure is not fatal—it’s the purrseverance that countz."*
 
 <!-- quote-of-day:end -->
 
