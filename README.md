@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Success is not final, failure is not fatal—it’s the purrseverance that countz."*
+> *"U have everything u need—except maybe that one box u saw once."*
 
 <!-- quote-of-day:end -->
 
