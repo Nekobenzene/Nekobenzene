@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"U have everything u need—except maybe that one box u saw once."*
+> *"Shine like the whole universe is ur personal sunbeam."*
 
 <!-- quote-of-day:end -->
 
