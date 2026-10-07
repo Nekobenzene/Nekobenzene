@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Shine like the whole universe is ur personal sunbeam."*
+> *"Worry ends where faith beginz—and where the treat jar openz."*
 
 <!-- quote-of-day:end -->
 
