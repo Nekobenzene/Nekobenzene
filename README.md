@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Worry ends where faith beginz—and where the treat jar openz."*
+> *"U r the CEO of ur own litter box—clean it up and own it."*
 
 <!-- quote-of-day:end -->
 
