@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"U r the CEO of ur own litter box—clean it up and own it."*
+> *"Every expert was once a kitten who didn’t know how to meow."*
 
 <!-- quote-of-day:end -->
 
