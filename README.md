@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Every expert was once a kitten who didn’t know how to meow."*
+> *"Keep ur face to the sunshine and u cannot see the shadow—also, squint cutely."*
 
 <!-- quote-of-day:end -->
 
