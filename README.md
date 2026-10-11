@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Keep ur face to the sunshine and u cannot see the shadow—also, squint cutely."*
+> *"Rise and shine, but if u can’t shine, rise and nap—that workz too."*
 
 <!-- quote-of-day:end -->
 
