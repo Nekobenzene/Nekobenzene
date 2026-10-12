@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Rise and shine, but if u can’t shine, rise and nap—that workz too."*
+> *"Ur potential is like a cardboard box—limitless in the right pawz."*
 
 <!-- quote-of-day:end -->
 
