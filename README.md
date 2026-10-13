@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Ur potential is like a cardboard box—limitless in the right pawz."*
+> *"Don’t let the hiss of yesterday steal the purr of today."*
 
 <!-- quote-of-day:end -->
 
