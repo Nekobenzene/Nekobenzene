@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Don’t let the hiss of yesterday steal the purr of today."*
+> *"U r exactly where u need to be—even if that’s under the sofa."*
 
 <!-- quote-of-day:end -->
 
