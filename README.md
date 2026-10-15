@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"U r exactly where u need to be—even if that’s under the sofa."*
+> *"Courage is being scared and taking the leap anyway—onto the counter."*
 
 <!-- quote-of-day:end -->
 
