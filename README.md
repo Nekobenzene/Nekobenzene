@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Courage is being scared and taking the leap anyway—onto the counter."*
+> *"Love urself like a cat loves a warm radiator—fiercely and without shame."*
 
 <!-- quote-of-day:end -->
 
