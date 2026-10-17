@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Love urself like a cat loves a warm radiator—fiercely and without shame."*
+> *"One small pawstep for a cat, one giant leap for catkind."*
 
 <!-- quote-of-day:end -->
 
