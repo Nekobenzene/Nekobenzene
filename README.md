@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"One small pawstep for a cat, one giant leap for catkind."*
+> *"Rest is not lazy; it’s recharging ur purr battery."*
 
 <!-- quote-of-day:end -->
 
