@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Rest is not lazy; it’s recharging ur purr battery."*
+> *"U can’t pour from an empty bowl—so fill urself first, then share the milk."*
 
 <!-- quote-of-day:end -->
 
