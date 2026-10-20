@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"U can’t pour from an empty bowl—so fill urself first, then share the milk."*
+> *"Be so gud they can’t ignore u—or so fluffy they can’t resist u."*
 
 <!-- quote-of-day:end -->
 
