@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Be so gud they can’t ignore u—or so fluffy they can’t resist u."*
+> *"The view from the top is nice, but the view from the window is better—choose wisely."*
 
 <!-- quote-of-day:end -->
 
