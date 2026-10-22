@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"The view from the top is nice, but the view from the window is better—choose wisely."*
+> *"Ur words have power—so meow them with kindness."*
 
 <!-- quote-of-day:end -->
 
