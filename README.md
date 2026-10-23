@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Ur words have power—so meow them with kindness."*
+> *"Even the longest night ends with a dawn chorus of birbs to watch."*
 
 <!-- quote-of-day:end -->
 
