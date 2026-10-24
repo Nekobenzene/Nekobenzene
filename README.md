@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Even the longest night ends with a dawn chorus of birbs to watch."*
+> *"Don’t compare ur behind-the-scenes to someone else’s highlight reel—or their tail fluff."*
 
 <!-- quote-of-day:end -->
 
