@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Don’t compare ur behind-the-scenes to someone else’s highlight reel—or their tail fluff."*
+> *"U r stronger than ur excuses, softer than ur fears, and faster than ur zoomies."*
 
 <!-- quote-of-day:end -->
 
