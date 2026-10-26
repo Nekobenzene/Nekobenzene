@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"U r stronger than ur excuses, softer than ur fears, and faster than ur zoomies."*
+> *"Plant kindness and u will harvest purrs."*
 
 <!-- quote-of-day:end -->
 
