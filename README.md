@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Plant kindness and u will harvest purrs."*
+> *"Every day is a fresh start—fresh kibble, fresh sunbeam, fresh chance."*
 
 <!-- quote-of-day:end -->
 
