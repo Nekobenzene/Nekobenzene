@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Every day is a fresh start—fresh kibble, fresh sunbeam, fresh chance."*
+> *"Be the change u wish to see in the litter box—keep it clean."*
 
 <!-- quote-of-day:end -->
 
