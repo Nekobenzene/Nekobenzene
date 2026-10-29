@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Be the change u wish to see in the litter box—keep it clean."*
+> *"U r not a drop in the ocean; u r the entire ocean—in a tiny cat body."*
 
 <!-- quote-of-day:end -->
 
