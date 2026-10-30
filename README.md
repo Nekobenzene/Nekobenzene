@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"U r not a drop in the ocean; u r the entire ocean—in a tiny cat body."*
+> *"Let ur faith be bigger than ur fear and ur tail higher than ur doubt."*
 
 <!-- quote-of-day:end -->
 
