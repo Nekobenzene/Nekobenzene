@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Let ur faith be bigger than ur fear and ur tail higher than ur doubt."*
+> *"Sometimes u win, sometimes u learn—and sometimes u just chase a red dot."*
 
 <!-- quote-of-day:end -->
 
