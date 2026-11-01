@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Sometimes u win, sometimes u learn—and sometimes u just chase a red dot."*
+> *"The journey of a thousand miles begins with a single step—toward the food bowl. — Lao Tzu"*
 
 <!-- quote-of-day:end -->
 
