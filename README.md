@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"The journey of a thousand miles begins with a single step—toward the food bowl. — Lao Tzu"*
+> *"In three words I can sum up everything I've learned about life: it goes on—and so does my purr. — Robert Frost"*
 
 <!-- quote-of-day:end -->
 
