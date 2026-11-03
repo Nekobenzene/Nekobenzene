@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"In three words I can sum up everything I've learned about life: it goes on—and so does my purr. — Robert Frost"*
+> *"Nothing is so strong as gentleness, and nothing is so gentle as real strength—except my claws. — Saint Francis de Sales"*
 
 <!-- quote-of-day:end -->
 
