@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Nothing is so strong as gentleness, and nothing is so gentle as real strength—except my claws. — Saint Francis de Sales"*
+> *"The only source of knowledge is experience—especially experience with closed cabinets. — Albert Einstein"*
 
 <!-- quote-of-day:end -->
 
