@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"The only source of knowledge is experience—especially experience with closed cabinets. — Albert Einstein"*
+> *"To live is the rarest thing in the world. Most people exist, that is all—but cats truly live, meow. — Oscar Wilde"*
 
 <!-- quote-of-day:end -->
 
