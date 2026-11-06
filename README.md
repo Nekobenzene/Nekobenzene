@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"To live is the rarest thing in the world. Most people exist, that is all—but cats truly live, meow. — Oscar Wilde"*
+> *"Without music, life would be a mistake—without purring, it would be unbearable. — Friedrich Nietzsche"*
 
 <!-- quote-of-day:end -->
 
