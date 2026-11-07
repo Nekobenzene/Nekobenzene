@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Without music, life would be a mistake—without purring, it would be unbearable. — Friedrich Nietzsche"*
+> *"Happiness is when what you think, what you say, and what you do are in harmony—and when you get tuna. — Buddha"*
 
 <!-- quote-of-day:end -->
 
