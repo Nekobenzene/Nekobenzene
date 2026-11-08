@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Happiness is when what you think, what you say, and what you do are in harmony—and when you get tuna. — Buddha"*
+> *"We are what we repeatedly do. Excellence, then, is not an act, but a habit—especially napping. — Aristotle"*
 
 <!-- quote-of-day:end -->
 
