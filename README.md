@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"We are what we repeatedly do. Excellence, then, is not an act, but a habit—especially napping. — Aristotle"*
+> *"The function of prayer is not to influence God, but rather to change the nature of the one who prays—and to summon the treat. — Søren Kierkegaard"*
 
 <!-- quote-of-day:end -->
 
