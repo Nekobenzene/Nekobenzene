@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"The function of prayer is not to influence God, but rather to change the nature of the one who prays—and to summon the treat. — Søren Kierkegaard"*
+> *"He who has a garden and a library wants for nothing—but he also wants a window sill. — Cicero"*
 
 <!-- quote-of-day:end -->
 
