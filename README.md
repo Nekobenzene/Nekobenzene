@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"He who has a garden and a library wants for nothing—but he also wants a window sill. — Cicero"*
+> *"Beware the barrenness of a busy life—beware the emptiness of an empty bowl. — Socrates"*
 
 <!-- quote-of-day:end -->
 
