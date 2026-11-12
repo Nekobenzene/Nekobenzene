@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Beware the barrenness of a busy life—beware the emptiness of an empty bowl. — Socrates"*
+> *"Silence is the sleep that nourishes wisdom—and I am very wise, meow. — Francis Bacon"*
 
 <!-- quote-of-day:end -->
 
