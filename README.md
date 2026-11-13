@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Silence is the sleep that nourishes wisdom—and I am very wise, meow. — Francis Bacon"*
+> *"What we think, we become—so think like a cat and become majestic. — Buddha"*
 
 <!-- quote-of-day:end -->
 
