@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"What we think, we become—so think like a cat and become majestic. — Buddha"*
+> *"The very essence of instinct is that it's followed independently of reason—and I follow my stomach. — Charles Darwin"*
 
 <!-- quote-of-day:end -->
 
