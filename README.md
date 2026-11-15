@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"The very essence of instinct is that it's followed independently of reason—and I follow my stomach. — Charles Darwin"*
+> *"Life must be lived forward, but can only be understood backward—and napped sideways. — Søren Kierkegaard"*
 
 <!-- quote-of-day:end -->
 
