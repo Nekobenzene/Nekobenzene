@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"Life must be lived forward, but can only be understood backward—and napped sideways. — Søren Kierkegaard"*
+> *"生活不止眼前的苟且，还有猫罐头和远方的小鱼干喵。"*
 
 <!-- quote-of-day:end -->
 
