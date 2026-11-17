@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"生活不止眼前的苟且，还有猫罐头和远方的小鱼干喵。"*
+> *"世界上只有一种真正的英雄主义，那就是认清生活的真相后依然继续追激光点。"*
 
 <!-- quote-of-day:end -->
 
