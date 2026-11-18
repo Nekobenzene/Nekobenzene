@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"世界上只有一种真正的英雄主义，那就是认清生活的真相后依然继续追激光点。"*
+> *"愿你出走半生，归来仍是少年——但最好带着猫条回来。"*
 
 <!-- quote-of-day:end -->
 
