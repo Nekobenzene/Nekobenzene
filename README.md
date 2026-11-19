@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"愿你出走半生，归来仍是少年——但最好带着猫条回来。"*
+> *"黑夜给了我黑色的眼睛，我却用它来寻找猫条。"*
 
 <!-- quote-of-day:end -->
 
