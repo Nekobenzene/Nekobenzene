@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"黑夜给了我黑色的眼睛，我却用它来寻找猫条。"*
+> *"猫生如逆旅，喵亦是行人。"*
 
 <!-- quote-of-day:end -->
 
