@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"猫生如逆旅，喵亦是行人。"*
+> *"愿你三冬暖，愿你春不寒，愿你天黑有灯，下雨有伞，碗里永远有粮。"*
 
 <!-- quote-of-day:end -->
 
