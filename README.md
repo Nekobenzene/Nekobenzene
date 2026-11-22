@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"愿你三冬暖，愿你春不寒，愿你天黑有灯，下雨有伞，碗里永远有粮。"*
+> *"所有的大人最初都是孩子，但很少有人记得——所有的大猫最初也都是小奶猫。"*
 
 <!-- quote-of-day:end -->
 
