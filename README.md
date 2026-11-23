@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"所有的大人最初都是孩子，但很少有人记得——所有的大猫最初也都是小奶猫。"*
+> *"世界上本没有路，走的喵多了，也便成了路。"*
 
 <!-- quote-of-day:end -->
 
