@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"世界上本没有路，走的喵多了，也便成了路。"*
+> *"生活就像一盒猫条，你永远不知道下一颗是什么味道。"*
 
 <!-- quote-of-day:end -->
 
