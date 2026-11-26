@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"人生得意须尽欢，更莫使猫碗空对晨awa"*
+> *"此心安处是吾乡，此毯暖处是吾窝。"*
 
 <!-- quote-of-day:end -->
 
