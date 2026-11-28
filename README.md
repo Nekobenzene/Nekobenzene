@@ -115,7 +115,7 @@
 <!-- quote-of-day:start -->
 <h1 align="center">quote of the day</h1>
 
-> *"你若盛开，清风自来。"*
+> *"人间值得，因为你值得。"*
 
 <!-- quote-of-day:end -->
 
